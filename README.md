@@ -1,3 +1,6 @@
-# ChessProj
-a game where you can play chess and the board shows you what are the players options
-one of my first projects while learning js
+# Chess Board
+
+<p>A board that shows the next possible movement</p>
+<p>Learinig project</p>
+
+<a href="https://shanikupiec.github.io/chess-board/" target="blank">Link to GitHub Pages</a>
